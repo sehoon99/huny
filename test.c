@@ -1,5 +1,6 @@
 func a(x,y){
+	print(x);
 	print(y);
-	print(y);
-	return x*y
+	print(x+y)
+	return x+y
 }
